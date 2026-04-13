@@ -4,7 +4,7 @@
  */
 const CONFIG = {
   meta: {
-    title: '腾小飞 · 个人名片',
+    title: 'LZL · 个人名片',
     description:
       '腾小飞 — 复旦大学腾飞书院工科学生个人名片：简介、技能与兴趣、科研、竞赛、实习与社会实践。',
     lang: 'zh-CN'
