@@ -96,11 +96,6 @@ const CONFIG = {
             items: [
               'Python',
               'C++',
-              'Unity',
-              'Godot',
-              'Matlab',
-              'SPSS',
-              'SQL'
             ]
           }
         ]
@@ -109,7 +104,7 @@ const CONFIG = {
         sections: [
           {
             heading: 'Reading list（寻找书友中……）',
-            items: ['《人间词话》', '《人间草木》', '《百年孤独》']
+            items: []
           }
         ]
       }
@@ -122,27 +117,23 @@ const CONFIG = {
       title: '科研经历',
       items: [
         '参与发表一篇 WON 负一区文章',
-        '参与腾飞科创并顺利结项',
-        'xxxx 实验室周公下棋全勤奖'
       ]
     },
     competition: {
       title: '竞赛获奖经历',
       items: [
         '数模国赛永远在参与',
-        '电赛、ACM、RM 有空一定了解'
       ]
     },
     internship: {
       title: '实习经验',
       items: [
         '家里厨房暑期优秀实习生',
-        '深度参与撸猫遛狗项目，实习认证时长 100h+'
       ]
     },
     social: {
       title: '社会实践',
-      items: ['2008 年感动中国人物得主', '被窝测评大师']
+      items: []
     }
   }
 }
