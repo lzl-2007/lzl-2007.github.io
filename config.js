@@ -25,10 +25,10 @@ const CONFIG = {
   slides: [
     { id: 'home', enabled: true, navLabel: '主页', navAriaLabel: '首页' },
     { id: 'skills', enabled: true, navLabel: '技能', navAriaLabel: '技能与兴趣' },
-    { id: 'research', enabled: true, navLabel: '科研经历', navAriaLabel: '科研经历' },
+    { id: 'research', enabled: false, navLabel: '科研经历', navAriaLabel: '科研经历' },
     { id: 'competition', enabled: true, navLabel: '竞赛获奖', navAriaLabel: '竞赛获奖' },
-    { id: 'internship', enabled: true, navLabel: '实习经验', navAriaLabel: '实习经验' },
-    { id: 'social', enabled: true, navLabel: '社会实践', navAriaLabel: '社会实践' }
+    { id: 'internship', enabled: false, navLabel: '实习经验', navAriaLabel: '实习经验' },
+    { id: 'social', enabled: false, navLabel: '社会实践', navAriaLabel: '社会实践' }
   ],
 
   /** 装饰图：右下角水印；技能等卡片标题旁小图标 */
@@ -55,12 +55,11 @@ const CONFIG = {
       {
         label: 'GitHub',
         value: 'Tengxiaofei-git',
-        href: 'https://github.com/Tengxiaofei-git'
+        href: 'https://github.com/lzl-2007'
       },
       {
         label: '联系方式',
-        value: 'secret',
-        href: 'mailto:tengfeimsc@163.com'
+        value: 'secret'
       }
     ]
   },
@@ -116,13 +115,13 @@ const CONFIG = {
     research: {
       title: '科研经历',
       items: [
-        '参与发表一篇 WON 负一区文章',
+        '努力试图参与中',
       ]
     },
     competition: {
       title: '竞赛获奖经历',
       items: [
-        '数模国赛永远在参与',
+        '数模国赛永远在试图参与',
       ]
     },
     internship: {
