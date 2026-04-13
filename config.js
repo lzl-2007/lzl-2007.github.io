@@ -54,7 +54,7 @@ const CONFIG = {
       { label: '爱好', value: '探索世界' },
       {
         label: 'GitHub',
-        value: 'Tengxiaofei-git',
+        value: 'lzl-git',
         href: 'https://github.com/lzl-2007'
       },
       {
