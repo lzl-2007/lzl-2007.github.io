@@ -33,8 +33,8 @@ const CONFIG = {
 
   /** 装饰图：右下角水印；技能等卡片标题旁小图标 */
   assets: {
-    watermark: 'assets/FDU.png',
-    sectionIcon: 'assets/标题.svg'
+    watermark: '781079071ae30f7b76e48c48f4582fe8.jpg',
+    sectionIcon: '781079071ae30f7b76e48c48f4582fe8.jpg'
   },
 
   profile: {
@@ -66,7 +66,7 @@ const CONFIG = {
 
   links: {
     /** 右上角「GitHub 仓库」按钮 */
-    repoUrl: 'https://github.com/Tengxiaofei-git/Tengxiaofei-git.github.io',
+    repoUrl: 'https://github.com/lzl-2007',
     repoLabel: 'GitHub 仓库',
     /** 主按钮文案与跳转的幻灯片 id（须为上面 slides 中某一 id） */
     primaryCtaLabel: '浏览经历',
@@ -80,11 +80,11 @@ const CONFIG = {
         sections: [
           {
             heading: 'Language',
-            items: ['Chinese', 'English']
+            items: ['Chinese', 'half-English']
           },
           {
             heading: 'Interests',
-            items: ['Photography', 'Painting', 'Go-kart']
+            items: ['Taylor music']
           }
         ]
       },
